@@ -105,9 +105,9 @@ PRODUCT_PACKAGES += \
     hwaddrs
 
 # Camera
-PRODUCT_PACKAGES += \
-    Snap \
-    camera.msm8974
+#PRODUCT_PACKAGES += \
+#    Snap \
+#    camera.msm8974
 
 # Display
 PRODUCT_PACKAGES += \
@@ -118,8 +118,8 @@ PRODUCT_PACKAGES += \
     liboverlay
 
 # Gello
-PRODUCT_PACKAGES += \
-    Gello
+#PRODUCT_PACKAGES += \
+#    Gello
 
 # GPS
 PRODUCT_PACKAGES += \
